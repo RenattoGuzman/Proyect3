@@ -1,17 +1,20 @@
 import React from 'react';
-import Navbar from './components/Navbar';
 import {BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import About from './pages/About';
+import Proyecto from './pages/Proyectos';
+import 'normalize.css';
+
 
 function App() {
+
+  
   return (
     <Router>
-    <div className="pt-20">
-      <Navbar />
+    <div>
+      
       <Routes>
         <Route path="/" element={<Home />}/>
-        <Route path="/about" element={<About />} />
+        <Route path="/proyectos" element={<Proyecto />} />
       </Routes>
     </div>
     </Router>
