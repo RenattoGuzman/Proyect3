@@ -1,17 +1,33 @@
-<p align="center">
-  <h1>Vite + React + TailwindCss + JIT</h1>
-</p>
 
-<p>
-<img src="https://img.shields.io/github/stars/vivekascoder/vite-react-tailwind-jit?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/vivekascoder/vite-react-tailwind-jit?style=for-the-badge">
-</p>
+# Proyecto 3 "RNTT"
 
-This template allows you to quickly scaffold a React project with React Router, TailwindCss with JIT Compiler and vite as a bundler. We use Vite because it's much faster than webpack. We use tailwindcss JIT compiler because it makes tailwindcss build time negligible and offers more features that you can check here [Tailwind JIT](https://tailwindcss.com/docs/just-in-time-mode). Talking about Vite, you can find more information here [Vite](https://vitejs.dev/).
+![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/5deba9d8-301f-4028-b1e8-62b2c2eddf6f)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/8791e721-eb67-4848-868f-f3aee888be2b)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/0a9eb1be-8ba4-474f-8a21-95c75dec9ecc)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/14fa54ca-a6be-4fb0-96d0-a0a1b8b4b7eb)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/c391f8b8-eeed-406a-b918-af72bc559236)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/bb2e4eb8-5180-48b3-8f85-7075dca4964a)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/8791e721-eb67-4848-868f-f3aee888be2b)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/0a9eb1be-8ba4-474f-8a21-95c75dec9ecc)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/14fa54ca-a6be-4fb0-96d0-a0a1b8b4b7eb)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/c391f8b8-eeed-406a-b918-af72bc559236)![image](https://github.com/RenattoGuzman/Proyect3/assets/104613135/bb2e4eb8-5180-48b3-8f85-7075dca4964a)
 
-## How to Install.
-First of all make sure you have yarn installed. If you have it you can create a new repo with this template and can clone it.
 
-![Use this template](https://i.imgur.com/Gtt5CPx.png)
 
-After clonning it, you can simply go to the folder and type `yarn` to install the dependencies.
+    
+# Link 
+    https://renattog.web.app/
+        
+# Tecnologías utilizadas
+- Vite + React
+- CSS
+- JSX Javascript
+    
+# Pre-requisitos 
+-NodeJs
+-Editor de código
+-Navegador Web
+    
+# Configuración de entorno
+Para lograr levantar la aplicación exitosamente, se necesita instalar las dependencias del proyecto.
+
+Abrir la terminal del proyecto y ejecutar:
+
+npm install
+    
+Ejecutar en la terminal el siguiente comando para iniciar la aplicación
+
+npm run dev
+
+    
